@@ -1,4 +1,9 @@
-## Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Professional Full Stack Developer.</h1>
+<p align="center">🌟 With over 6 years of professional experience working for companies, I thrive as a freelancer on diverse client projects. My expertise spans web development with a strong focus on React, Next.js, TypeScript, JavaScript, Tailwind CSS, C#, and ASP.NET. 💻 I'm passionate about learning new technologies and continuously improving my skills. 🚀</p>
+
 
 <!--
 **blaztan/blaztan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
